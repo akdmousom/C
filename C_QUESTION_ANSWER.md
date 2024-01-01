@@ -2,7 +2,8 @@
 
 1. It is important that you end the statement with a semicolon ```;```
 
-**Ans:**   - [x] Yes  
+- **Ans:**  
+- [x] Yes  
 
 - [ ] No
 
