@@ -41,4 +41,22 @@ Yes, you can use as many as you want to print.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+**5. How Can I Insert A New Line?**
+
+To insert a new line, you can use the \n character:
+
+```
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!\n");
+  printf("I am learning C.");
+  return 0;
+}
+```
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
 
