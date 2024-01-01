@@ -8,6 +8,8 @@
 
 If you forget the semicolon (;), an error will occur and the program will not run and this error show in your console ```error: expected ';' before 'return'```
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 **2. Are the statements executed one by one in C?**
 
@@ -17,6 +19,8 @@ If you forget the semicolon (;), an error will occur and the program will not ru
 
 Most C programs contain many statements. The statements are executed, one by one, in the same order as they are written.
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 **3. Is Single Quotes Allow In C?**
 
 - [ ] Yes
@@ -24,4 +28,6 @@ Most C programs contain many statements. The statements are executed, one by one
 - [x] No
 
 When you are working with text, it must be wrapped inside double quotations marks ```""```
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
