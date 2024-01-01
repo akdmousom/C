@@ -31,3 +31,14 @@ When you are working with text, it must be wrapped inside double quotations mark
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+**4. Can I Use Many ```Printf()``` Function In My Main Function?**
+
+- [x] Yes
+
+- [ ] No
+
+Yes, you can use as many as you want to print.
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
