@@ -15,5 +15,13 @@ If you forget the semicolon (;), an error will occur and the program will not ru
 
 - [ ] No
 
-Most C programs contain many statements. The statements are executed, one by one, in the same order as they are written
+Most C programs contain many statements. The statements are executed, one by one, in the same order as they are written.
+
+**3.** Is Single Quotes Allow In C?
+
+- [ ] Yes
+
+- [x] No
+
+When you are working with text, it must be wrapped inside double quotations marks ```""```
 
