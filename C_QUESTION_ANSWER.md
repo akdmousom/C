@@ -6,3 +6,5 @@
 
 - [ ] No
 
+If you forget the semicolon (;), an error will occur and the program will not run and this error show in your console ==```error: expected ';' before 'return'```==
+
